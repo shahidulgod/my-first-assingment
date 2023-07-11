@@ -1,0 +1,11 @@
+
+
+.header-class{
+    border: 1px solid #000;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    padding: 50px 240px; text-align: center;
+    align-items: center;
+}
+
+}
