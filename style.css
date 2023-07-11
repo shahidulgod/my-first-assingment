@@ -1,11 +1,57 @@
 
 
-.header-class{
+.header-cssla{
     border: 1px solid #000;
     background: rgba(229, 84, 115, 0.10);
     display: flex;
-    padding: 50px 240px; text-align: center;
+    padding: 50px 200px; 
+    text-align: justify;
     align-items: center;
+    justify-content:space-between;
+     width: 1900px;
+    height: 850px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+gap: 97px; 
+ 
 }
+.f-div{ 
+    flex-shrink: colum;
+}
+.fist-text{
+    color: #272727;
+text-align:center;
+font-size: 80px;
+
+font-weight: 800;
+margin: auto;
+text-align: justify;
+margin-bottom: 35px;
+
+}
+.fist-button{
+    
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 35px;
+
+
+}
+.fist-para{
+    color: #272727;
+    text-align:center;
+    font-size: 18px;
+    
+    font-weight: 800;
+    margin: auto;
+    text-align:justify;
+
+
 
 }
