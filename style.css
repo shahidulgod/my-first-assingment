@@ -1,7 +1,7 @@
 
 
 .header-cssla{
-    border: 1px solid #000;
+    border: 1px solid #fcf5f5;
     background: rgba(229, 84, 115, 0.10);
     display: flex;
     padding: 50px 200px; 
@@ -51,7 +51,45 @@ margin-top: 35px;
     font-weight: 800;
     margin: auto;
     text-align:justify;
+}
+/* ------- 2nd  work---------- */
 
+.container{
+width: 1922px;
+height: 620px;
+background: rgba(229, 84, 115, 0.05);
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+display: flex;
+align-items: center;
+text-align: center;
+gap: 215px;
+padding: 90px 430px;
+ 
+}
+.text-2{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.fist-span{
+    color: #E55473;
+}
+.text-3{
+width: 594px;
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.button-2{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+padding: 20px 43px;
+gap: 10px;
+ border-radius: 8px;
+background: #E55473;
 
 
 }
