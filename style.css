@@ -1,5 +1,7 @@
 
-
+.{
+    
+}
 .header-2{
     border: 1px solid #fcf5f5;
     background: rgba(229, 84, 115, 0.10);
@@ -35,11 +37,11 @@ margin-bottom: 35px;
     gap: 10px;
     border-radius: 8px;
     background: #E55473;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-margin-top: 35px;
+    font-size: 20px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+    margin-top: 35px;
 
 
 }
@@ -90,6 +92,91 @@ padding: 20px 43px;
 gap: 10px;
  border-radius: 8px;
 background: #E55473;
+}
+/* --2nd work-- */
+.contant{
+    width: 1920px;
+    height: 2300px;
+    background: #FFF;
+}
+.Featured{
+    
+text-align: center;
+
+}
+.Asset{
+text-align: center;
+display: flex;
+align-items: center;
+padding-left: 300px;
+gap: 24px;
+
+
+
+}
+.Pink{
+text-align: center;
+display: flex;
+align-items: center;
+gap: 300px;
+padding-left: 400px;
+
+}
+#bd{font-size: 40px;
+    font-weight: 800px;
+    color: #272727;
+    padding-top: 300px;
+
+}
+#ctg{font-size: 18px;
+    font-weight: 400;
+    height: 60px;
+    width: 600px;
+    color: rgba(39, 39, 39, 0.60);
+    padding-left: 600px;
+
+    
+}
+#img-1{
+    width: 310px;
+    height: 428px;
+    padding: 100px 28px 0px;
+    border: 464px 538px;
+    border-top-left-radius: 250px ;
+    border-top-right-radius: 250px ;
+    padding: 110px 48px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+
+}
+#img-2{ width: 310px;
+    height: 428px;
+    padding: 100px 28px 0px;
+    border: 464px 538px;
+    border-top-left-radius: 250px ;
+    border-top-right-radius: 250px ;
+    padding: 110px 48px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+
+}
+#img-3{ width: 310px;
+    height: 428px;
+    padding: 100px 28px 0px;
+    border: 464px 538px;
+    border-top-left-radius: 250px ;
+    border-top-right-radius: 250px ;
+    padding: 110px 48px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+#tree{
+    color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
 }
 /* ---3rd work---- */
 .container-2{
@@ -166,4 +253,42 @@ height: 64px;
 color: #FFF;
 font-size: 20px;
 font-weight: 700;
+}
+
+/* ---footer----- */
+
+
+
+.footer{
+    width: 1922px;
+height: 449px;
+background: #111010;
+align-items: center;
+text-align: center;
+padding-top: 130px;
+}  
+.span-2{color: #E55473;
+
+}
+#footer-1{
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+    
+
+}
+#footer-2{
+width: 625px;
+color: rgba(255, 255, 255, 0.90);
+font-size: 20px;
+font-weight: 400;
+height: 30px;
+padding-left: 650px;
+
+}
+#footer-3{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    
 }
