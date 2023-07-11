@@ -1,6 +1,6 @@
 
 
-.header-cssla{
+.header-2{
     border: 1px solid #fcf5f5;
     background: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -90,6 +90,80 @@ padding: 20px 43px;
 gap: 10px;
  border-radius: 8px;
 background: #E55473;
+}
+/* ---3rd work---- */
+.container-2{
+    width: 1920px;
+   height: 4867px;
+   background: #FFF;
+   padding: 150px 240px;
+   gap: 48px;
+}
+.iInstagram{
+    gap: 50px;
+}
+.img-2{
+    gap: 24px;
+    width: 342px;
+height: 396px;
+display: flex;
+}
+.text-4{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.text-5{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+    color: rgba(39, 39, 39, 0.60);
+    
+}
+.emil{
+    width: 1440px;
+height: 449px;
+background-image: url("Flower Asset/Rectangle 9.png");
+background-repeat: no-repeat;
+text-align: center;
+align-items: center;
+padding-top: 128px;
+margin-top: 46px;
 
-
+}
+.input{
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    padding: 0px 500px;
+     
+}
+#name{
+    background-color: white;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px; 
+}
+.Deals{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.text-6{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+#Subscribe{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+width: 120x;
+height: 64px;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
 }
